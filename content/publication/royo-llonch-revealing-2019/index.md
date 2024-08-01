@@ -1,0 +1,40 @@
+---
+title: Revealing keystone arctic microbial genomes
+authors:
+- Marta Royo-Llonch
+- Pablo Sánchez
+- Clara Ruiz-González
+- Carlos Pedrós-Alió
+- Silvia G. Acinas
+date: '2019-09-01'
+publishDate: '2024-08-01T14:56:10.725166Z'
+publication_types:
+- paper-conference
+publication: '*16 Symposium of Aquatic Microbial Ecology*'
+abstract: Microbial community composition in the North Polar waters varies greatly
+  throughout the year. From what it is known so far, spring melting of the ice and
+  increase in light disposal spur the bloom of phytoplankton. During summer, bacterial
+  populations, mainly heterotrophic and photoheterotrophic, feed on the nutrients
+  derived from such bloom. With fall’s shorter light hours and colder seawater temperatures,
+  the bacterial community shifts towards chemolithoautotrophic microorganisms, that
+  will prevail during winter. In 2013 Tara Oceans navigated Arctic waters during spring,
+  summer and the beginning of fall (May to October), extensively sampling the microbial
+  plankton communities. Here, we show the reconstruction of 2555 bacterial and archaeal
+  metagenomic assembled genomes (MAGs) from 41 microbial metagenomes, covering the
+  whole Arctic Ocean from spring to early fall at different water depths. Together
+  with the physicochemical information of all stations we are capable of linking habitat
+  preferences (generalists vs specialist) of the different prokaryotic taxa around
+  the North Pole with at the maximum resolution possible, the genome level. Of the
+  reconstructed prokaryotic MAGs, 96 are considered to be high-quality draft-like
+  genomes (textgreater90% genome completeness, textless5% contamination), revealing
+  several potential new phyla, including unexpected taxa such as Dehaloccocoidetes,
+  a group that had never been described in polar oceans waters. Moreover, the metabolic
+  capacity of these uncultured prokaryotic genomes reveals the ubiquity of chemolithoautotrophic
+  metabolisms in this environment through the different seasons, harboring different
+  pathways for CO2 fixation. This finding represents a major breakthrough in our understanding
+  of potential prokaryotic endemism’s and the carbon fluxes in Arctic polar waters,
+  pointing out to a greater impact than previously considered
+links:
+- name: URL
+  url: http://hdl.handle.net/10261/192233
+---
